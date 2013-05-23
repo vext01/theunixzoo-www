@@ -21,5 +21,5 @@ My Stuff
 - [Retro stuff](retro.html)
 - [Reverse engineering stuff](reveng.html)
 
-![A Badger](res/badger.png)
+[![A Badger](res/badger.png)](http://openclipart.org/detail/23702/badger-by-papapishu-23702)
 
