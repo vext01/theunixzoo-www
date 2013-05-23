@@ -1,0 +1,23 @@
+body {
+	background-color: #242429;
+	color: #dddddd;
+	font-family: sans-serif;
+}
+
+a {
+	color: #d48130;
+}
+
+a:visited {
+	color: seagreen;
+}
+
+h1,h2,h3 {
+	color: #d48130;
+	font-family: serif;
+}
+
+hr {
+	border-color: #d48130;
+	height: 1px;
+}
