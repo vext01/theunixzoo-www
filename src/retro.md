@@ -14,6 +14,13 @@ Other than ebay ofcourse:
 - [Small Device C Compiler](http://sdcc.sourceforge.net/)
 - [z88dk](http://www.z88dk.org/forum/)
 - [Intro to Z80 Asm, by James Hollidge](http://www.worldofspectrum.org/Z80.html)
+- [ccz80 language - c like language for z80 machines](http://www.norecess.net/amstrad-cpc-in-2011.html)
+
+#### Amstrad CPC
+- [Mochilote's Amstrad CPC Programming tutorials (C and ASM) - also v. good for general info on SDCC and ASM](http://www.cpcmania.com/Docs/Programming/Programming.htm)
+- [CPCWiki info on SDCC](http://cpcwiki.eu/index.php/SDCC_and_CPC)
+- [NoRecesses PhrozenC - native C development on CPC](http://cpcrulez.fr/coding-crossdev-phrozenC.htm)
+- [NoRecesses Phactory - Windows IDE with graphics editor etc](http://www.norecess.net/phactory.html)
 
 #### Sega
 
@@ -25,6 +32,9 @@ Other than ebay ofcourse:
 
 - [Emu Docs](http://emu-docs.org/)
 
+#### Amstrad CPC
+- [CPC Wiki](http://cpcwiki.eu/)
+
 #### Sega
 
 - [Charles MacDonald's Site](http://www.youtube.com/watch?v=PJvYprLDcRs) - Excellent source for Sega internals.
@@ -35,6 +45,9 @@ Other than ebay ofcourse:
 #### General
 
 - [Assembler Games](http://assemblergames.com)
+ 
+#### Amstrad CPC
+- [CPC Wiki Forums](http://www.cpcwiki.eu/forum/)
 
 #### Commodore
 
