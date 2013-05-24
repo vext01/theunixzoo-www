@@ -16,6 +16,9 @@ Other than ebay ofcourse:
 - [Intro to Z80 Asm, by James Hollidge](http://www.worldofspectrum.org/Z80.html)
 - [ccz80 language - c like language for z80 machines](http://www.norecess.net/amstrad-cpc-in-2011.html)
 
+#### Amstrad CPC
+- [Mochilote's Amstrad CPC Programming tutorials (C and ASM) - also v. good for general info on SDCC and ASM](http://www.cpcmania.com/Docs/Programming/Programming.htm)
+
 #### Sega
 
 - [SGDK](https://code.google.com/p/sgdk/)
