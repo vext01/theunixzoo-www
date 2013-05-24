@@ -14,7 +14,7 @@ Other than ebay ofcourse:
 - [Small Device C Compiler](http://sdcc.sourceforge.net/)
 - [z88dk](http://www.z88dk.org/forum/)
 - [Intro to Z80 Asm, by James Hollidge](http://www.worldofspectrum.org/Z80.html)
-- [ccz80 language - c like language for z80 machines](http://www.norecess.net/amstrad-cpc-in-2011.html)
+- [ccz80 language](http://www.telefonica.net/web2/emilioguerrero/ccz80/ccz80.html) - C like language for z80 machines.
 
 #### Amstrad CPC
 - [Mochilote's Amstrad CPC Programming tutorials (C and ASM) - also v. good for general info on SDCC and ASM](http://www.cpcmania.com/Docs/Programming/Programming.htm)
