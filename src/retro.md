@@ -18,6 +18,9 @@ Other than ebay ofcourse:
 
 #### Amstrad CPC
 - [Mochilote's Amstrad CPC Programming tutorials (C and ASM) - also v. good for general info on SDCC and ASM](http://www.cpcmania.com/Docs/Programming/Programming.htm)
+- [CPCWiki info on SDCC](http://cpcwiki.eu/index.php/SDCC_and_CPC)
+- [NoRecesses PhrozenC - native C development on CPC](http://cpcrulez.fr/coding-crossdev-phrozenC.htm)
+- [NoRecesses Phactory - Windows IDE with graphics editor etc](http://www.norecess.net/phactory.html)
 
 #### Sega
 
