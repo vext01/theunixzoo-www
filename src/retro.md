@@ -1,4 +1,4 @@
-## Retro Links
+## Edd and Ed's Retro Links
 
 ### Trading
 
