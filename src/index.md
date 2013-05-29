@@ -18,8 +18,12 @@ My Stuff
 
 - [GitHub](https://github.com/vext01/)
 - [OpenBSD stuff](openbsd.html)
-- [Retro stuff](retro.html)
-- [Reverse engineering stuff](reveng.html)
+
+### Link Pages
+
+- [Ed and Edd's retro links](retro.html)
+- [Reverse engineering links](reveng.html)
+- [Meta-tracing Links](metatrace.html)
 
 [![A Badger](res/badger.png)](http://openclipart.org/detail/23702/badger-by-papapishu-23702)
 
