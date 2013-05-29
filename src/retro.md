@@ -15,6 +15,7 @@ Other than ebay ofcourse:
 - [z88dk](http://www.z88dk.org/forum/)
 - [Intro to Z80 Asm, by James Hollidge](http://www.worldofspectrum.org/Z80.html)
 - [ccz80 language](http://www.telefonica.net/web2/emilioguerrero/ccz80/ccz80.html) - C like language for z80 machines.
+- [Decoding Z80 opcodes](http://www.z80.info/decoding.htm)
 
 #### Amstrad CPC
 - [Mochilote's Amstrad CPC Programming tutorials (C and ASM) - also v. good for general info on SDCC and ASM](http://www.cpcmania.com/Docs/Programming/Programming.htm)
