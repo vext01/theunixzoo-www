@@ -4,7 +4,13 @@ Home
 You have landed at the home of Edd Barrett; Computer scientist,
 programmer, OpenBSD developer and retro hardware enthusiast.
 
-You can find my (old) accademic page [here](http://www.cs.kent.ac.uk/people/rpg/eb771/).
+I am currently working as a post-doc at the Department of Informatics,
+King's College London. For more information, see the [SoftDev team
+website](http://soft-dev.org/), specifically, the [COOLER project
+page](http://soft-dev.org/projects/cooler/).
+
+You can find my (old) accademic page
+[here](http://www.cs.kent.ac.uk/people/rpg/eb771/).
 
 Contact
 -------
