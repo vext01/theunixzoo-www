@@ -9,6 +9,7 @@
     - [Part 2:Adding JIT](http://morepypy.blogspot.com/2011/04/tutorial-part-2-adding-jit.html)
 - [A simple register VM example by Laurence Tratt](https://github.com/ltratt/registervm)
 - [PyPy Coding Guide](https://pypy.readthedocs.org/en/latest/coding-guide.html)
+- [PyPy Coding Guide (improve-docs branch)[https://pypy.readthedocs.org/en/improve-docs/coding-guide.html]
 - [PyPy Object Space Docs](https://pypy.readthedocs.org/en/latest/objspace.html)
 
 ## Self
