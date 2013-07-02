@@ -1,4 +1,4 @@
-# Metatracing Links
+# Metatracing (and related) Links
 
 ## PyPy
 
@@ -11,6 +11,10 @@
 - [PyPy Coding Guide](https://pypy.readthedocs.org/en/latest/coding-guide.html)
 - [PyPy Coding Guide (improve-docs branch)](https://pypy.readthedocs.org/en/improve-docs/coding-guide.html)
 - [PyPy Object Space Docs](https://pypy.readthedocs.org/en/latest/objspace.html)
+
+## Various Theory
+
+- [The Lambda Calculus](http://plato.stanford.edu/entries/lambda-calculus/)
 
 ## Self
 
