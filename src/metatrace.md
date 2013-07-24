@@ -15,6 +15,7 @@
 ## Various Theory
 
 - [The Lambda Calculus](http://plato.stanford.edu/entries/lambda-calculus/)
+- [A Taste of Lambda Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
 
 ## Self
 
