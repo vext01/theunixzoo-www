@@ -34,7 +34,7 @@ My Stuff
 
 - [Ed and Edd's retro links](retro.html)
 - [Reverse engineering links](reveng.html)
-- [Meta-tracing Links](metatrace.html)
+- [Metatracing, Parsing, Language Composition (and related) Links](metatrace.html)
 
 [![A Badger](res/badger.png)](http://openclipart.org/detail/23702/badger-by-papapishu-23702)
 
