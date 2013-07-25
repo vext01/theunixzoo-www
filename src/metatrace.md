@@ -12,6 +12,10 @@
 - [PyPy Coding Guide (improve-docs branch)](https://pypy.readthedocs.org/en/improve-docs/coding-guide.html)
 - [PyPy Object Space Docs](https://pypy.readthedocs.org/en/latest/objspace.html)
 
+## SoftDev @ King's Stuff:
+
+- [Screencast Demo of the Language Box Editor](http://www.youtube.com/watch?v=LMzrTb22Ot8)
+
 ## Various Theory
 
 - [The Lambda Calculus](http://plato.stanford.edu/entries/lambda-calculus/)
