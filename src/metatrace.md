@@ -20,6 +20,7 @@
 
 - [The Lambda Calculus](http://plato.stanford.edu/entries/lambda-calculus/)
 - [A Taste of Lambda Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
+- [Step by step example of alpha/beta pruning](http://www.youtube.com/watch?v=xBXHtz4Gbdo)
 
 ## Self
 
