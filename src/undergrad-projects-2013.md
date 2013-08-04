@@ -41,7 +41,7 @@ London published work on Language boxes; a new way to compose
 programming language grammars whilst avoiding ambiguity issues commonly
 associated with such compositions. Accompanying this research was an
 experimental implementation of a language-box-aware programmer's editor.
-The editor demonstrates language boxes for Java, SQL and an imaginary
+The editor demonstrates language boxes for Java, Python, SQL and an imaginary
 chemical language, but does not yet produce executable programs.
 
 I propose that a student could extend the editor project to enable the
