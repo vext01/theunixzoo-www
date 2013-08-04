@@ -93,7 +93,7 @@ goal.
 ### A Lightweight Trace Inspector for PyPy
 
 PyPy is a fast meta-tracing implementation of the popular Python
-programming language. The PyPy community takes performance serisouly and
+programming language. The PyPy community takes performance seriously and
 as a result has implemented instrumentation which can help to debug
 possible performance issues.  Due to the sheer amount of raw data that
 the aforementioned instrumentation generates, ideally an external tool
