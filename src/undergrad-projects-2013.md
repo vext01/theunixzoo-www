@@ -90,7 +90,7 @@ formulae would make a reasonable DSL for language compositions, the
 resulting compiler would certainly be the first step towards such a
 goal.
 
-### A lightweight Tk for PyPy Trace Inspection
+### A Lightweight Trace Inspector for PyPy
 
 PyPy is a fast meta-tracing implementation of the popular Python
 programming language. The PyPy community takes performance serisouly and
