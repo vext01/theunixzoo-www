@@ -13,12 +13,16 @@ meta-tracing JIT compilers in Python.
 
 The composition of Python and Prolog allows us to explore the benefits
 and drawbacks of a meta-traced composition of imperative and declarative
-programming languages. One area yet unexplored, however, is how
-functional programming languages would fare in a meta-traced language
-composition.
+programming languages. Areas yet unexplored in our meta-traced language
+compositions are:
 
-I propose that a student could implement Caml Light in RPython. The outcomes
-of the project would be:
+ * Statically typed languages.
+ * Functional languages.
+ * Type inferred languages.
+
+Caml Light is a statically typed, functional programming languages that
+implements type inference.  I propose that a student could implement
+Caml Light in RPython. The outcomes of the project would be:
 
  * A meta-traced JIT compiler for Caml Light written in RPython.
  * A set of benchmarks evaluating the performance of the compiler.
