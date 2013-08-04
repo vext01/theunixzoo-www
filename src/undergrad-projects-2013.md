@@ -1,4 +1,4 @@
-# Soft-Dev Undergrauduate Project Ideas for 2013
+# Soft-Dev Undergraduate Project Ideas for 2013
 
 The following items are ideas for undergraduate computer science
 projects at King's College London.
@@ -20,7 +20,7 @@ compositions are:
  * Functional languages.
  * Type inferred languages.
 
-Caml Light is a statically typed, functional programming languages that
+Caml Light is a statically typed, functional programming language that
 implements type inference.  I propose that a student could implement
 Caml Light in RPython. The outcomes of the project would be:
 
