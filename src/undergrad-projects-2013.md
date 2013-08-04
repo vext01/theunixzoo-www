@@ -3,7 +3,7 @@
 The following items are ideas for undergraduate computer science
 projects at King's College London.
 
-## A Caml Light Interpreter in RPython.
+## A Meta-Traced Caml Light Interpreter in RPython.
 
 The software development team at King's College London is interested in
 the composition of programming languages. Recent research has seen the
