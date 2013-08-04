@@ -1,9 +1,9 @@
-# Soft-Dev Undergraduate Project Ideas for 2013
+## Soft-Dev Undergraduate Project Ideas for 2013
 
 The following items are ideas for undergraduate computer science
 projects at King's College London.
 
-## A Meta-Traced Caml Light Interpreter in RPython.
+### A Meta-Traced Caml Light Interpreter in RPython.
 
 The software development team at King's College London is interested in
 the composition of programming languages. Recent research has seen the
@@ -34,7 +34,7 @@ team may then:
  * Evaluate the performance of such compositions.
  * Further evaluate RPython as a meta-tracing platform.
 
-## SQLite Syntax Integration for Python via Language Boxes
+### SQLite Syntax Integration for Python via Language Boxes
 
 Recently, members of the Software Development Team at King's College
 London published work on Language boxes; a new way to compose
