@@ -89,3 +89,71 @@ Although this does not directly address the question of whether Boolean
 formulae would make a reasonable DSL for language compositions, the
 resulting compiler would certainly be the first step towards such a
 goal.
+
+### A lightweight Tk for PyPy Trace Inspection
+
+PyPy is a fast meta-tracing implementation of the popular Python
+programming language. The PyPy community takes performance serisouly and
+as a result has implemented instrumentation which can help to debug
+possible performance issues.  Due to the sheer amount of raw data that
+the aforementioned instrumentation generates, ideally an external tool
+is used to process and present this raw information. One such example is
+the web-based jitviewer project.
+
+Whilst the jitviewer project provides the right amount of functionality
+for debugging performance issues, unfortunately it has a fair few
+dependencies and some users may prefer to use a desktop application (as
+opposed to a web application). Furthermore, the setup process of
+jitviewer is complicated by the need to install dependencies inside a
+PyPy virtualenv.
+
+I propose that a student could write a minimal trace inspector/debugger
+for PyPy using a minimal number of external libraries. Perhaps this
+would be a py-tkinter or py-gtk application? In fact, this tooling could
+be written in any language, although ideally it would be written in
+Python so as to allow easy modification by PyPy developers.
+
+The outcomes of this project would be:
+
+ * A graphical trace inspector for PyPy.
+ * A documentation for the inspector.
+ * A demonstration (webcast/tutorial) showing how the GUI can be used to
+   identify performance problems.
+
+### A Query Interface to OpenBSD ktrace(1)
+
+ktrace(1) is a system call tracer for OpenBSD. Ktrace monitors a running
+binary executable and records every system call performed. This
+information can be useful when black-box debugging a program (i.e.
+without the source code). Ktrace is similar to systrace(1) for Linux or
+truss(1) for Solaris.
+
+Currently ktrace(1) dumps its information out to a binary log file which
+is then interpreted by kdump(1) to give a report. This report is
+incredibly detailed and it can be difficult to extract the required
+information.
+
+For example, consider you wish to know how many bytes were written to a
+named file. Since the low-level UNIX file IO is in terms of file
+descriptors (and not file names), one must first find the file
+descriptor which corresponds to the named file. Furthermore, this file
+descriptor may be re-allocated to a different file opened at a later
+date. Would it not be useful to extract the slice of the trace under
+which the named file is open? This would make it much easier to navigate
+the ktrace logs.
+
+This is of course, but one example.
+
+I propose that a student writes a queryable interface to ktrace logs to
+aid system call inspection under OpenBSD.
+
+The outcomes of this project would be:
+
+ * Some kind of query language by which the user would specify their needs.
+ * An "interpreter" for this language which extracts the necessary trace information.
+ * A presentational layer on top of the above which makes reading the
+   trace easier. This should probably be text-based to match the ethos of
+   OpenBSD.
+
+Note that this project is not related to meta-tracing or RPython as with
+the other projects.
