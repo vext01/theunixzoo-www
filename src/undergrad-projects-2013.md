@@ -34,7 +34,7 @@ team may then:
  * Evaluate the performance of such compositions.
  * Further evaluate RPython as a meta-tracing platform.
 
-## SQLite Syntax Integration Python via Language Boxes
+## SQLite Syntax Integration for Python via Language Boxes
 
 Recently, members of the Software Development Team at King's College
 London published work on Language boxes; a new way to compose
