@@ -61,3 +61,31 @@ deliverables:
    composed Python/SQL. This would require some kind of a survey asking
    experienced programmers to try out the editor.
 
+### Meta-traced SAT Solver in RPython
+
+The Boolean satisfiability problem is now well recognised in both
+academic and industrial circles. By encoding a problem as a Boolean
+formula, an automated SAT solver can be used to find satisfying
+assignments to propositional variables.
+
+Often a software system will deploy a SAT solver for one specific
+purpose in an overall larger piece of functionality. For example, some
+Linux distributions use a SAT solver to resolve package dependencies.
+It is common that the SAT solver is integrated via an external call
+to a decision procedure written in (for example), C. However, would it
+not be more elegant to consider a Boolean formula as a domain specific
+language which is then composed with another general purpose language?
+Further, would Boolean SAT be a good candidate for meta-tracing?
+
+I propose that a student implements a SAT solver RPython. The outcomes
+of this project would be:
+
+ * A meta-tracing SAT solver written in RPython.
+ * A set of benchmarks which evaluate the performance of the SAT solver.
+   Comparisons should be drawn with other leading SAT solvers such as
+   MiniSAT.
+
+Although this does not directly address the question of whether Boolean
+formulae would make a reasonable DSL for language compositions, the
+resulting compiler would certainly be the first step towards such a
+goal.
