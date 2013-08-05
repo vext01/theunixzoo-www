@@ -1,6 +1,6 @@
-# Metatracing, Parsing, Language Composition (and related) Links
+## Metatracing, Parsing, Language Composition (and related) Links
 
-## PyPy/RPython
+### PyPy/RPython
 
 - [Fast enough VMs in Fast Enough Time](http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time)
 - [Getting started with RPython](http://doc.pypy.org/en/latest/getting-started-dev.html)
@@ -13,16 +13,16 @@
 - [PyPy Object Space Docs](https://pypy.readthedocs.org/en/latest/objspace.html)
 - [Haskell in RPython](https://bitbucket.org/cfbolz/haskell-python)
 
-## SoftDev @ King's Stuff:
+### SoftDev @ King's Stuff:
 
 - [Screencast Demo of the Language Box Editor](http://www.youtube.com/watch?v=LMzrTb22Ot8)
 
-## Various Theory
+### Various Theory
 
 - [The Lambda Calculus](http://plato.stanford.edu/entries/lambda-calculus/)
 - [A Taste of Lambda Calculus](http://www.flyingmachinestudios.com/programming/a-taste-of-the-lambda-calculus/)
 - [Step by step example of alpha/beta pruning](http://www.youtube.com/watch?v=xBXHtz4Gbdo)
 
-## Self
+### Self
 
 - [Self and Self: Whys and Wherefores](http://www.youtube.com/watch?v=3ka4KY7TMTU)
