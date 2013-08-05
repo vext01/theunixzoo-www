@@ -27,6 +27,7 @@ My Stuff
 --------
 
 - [Publications](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Barrett:Edd.html)
+- [Undergraduate Project Ideas](undergrad-projects-2013.html)
 - [GitHub](https://github.com/vext01/)
 - [OpenBSD stuff](openbsd.html)
 
