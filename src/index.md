@@ -1,5 +1,4 @@
-Home
-----
+##Home
 
 You have landed at the home of Edd Barrett; Computer scientist,
 programmer, OpenBSD developer and retro hardware enthusiast.
@@ -12,8 +11,7 @@ page](http://soft-dev.org/projects/cooler/).
 You can find my (old) accademic page
 [here](http://www.cs.kent.ac.uk/people/rpg/eb771/).
 
-Contact
--------
+## Contact
 
 - vext01 (at) gmail dot com
 - edd (at) openbsd dot org
@@ -23,8 +21,7 @@ The following address will be phased out shortly:
 
 - e.barrett (at) kent dot ac dot uk
 
-My Stuff
---------
+## My Stuff
 
 - [Publications](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Barrett:Edd.html)
 - [Undergraduate Project Ideas](undergrad-projects-2013.html)
