@@ -52,7 +52,8 @@ deliverables:
  * The design and implementation of some kind of intermediate representation.
    For example, one possibility (and probably the simplest) is to translate
    the composed Python/SQL program to Python code that calls the SQLite3 API.
-   Of course there are many other valid options.
+   Of course there are many other valid options. A more enthusiastic student
+   may choose to implement sqlite3 in RPython itself.
 
  * A set of demonstrations (in the form of code examples) showcasing the
    benefits of the composition.
