@@ -1,6 +1,6 @@
 # Metatracing, Parsing, Language Composition (and related) Links
 
-## PyPy
+## PyPy/RPython
 
 - [Fast enough VMs in Fast Enough Time](http://tratt.net/laurie/tech_articles/articles/fast_enough_vms_in_fast_enough_time)
 - [Getting started with RPython](http://doc.pypy.org/en/latest/getting-started-dev.html)
@@ -11,6 +11,7 @@
 - [PyPy Coding Guide](https://pypy.readthedocs.org/en/latest/coding-guide.html)
 - [PyPy Coding Guide (improve-docs branch)](https://pypy.readthedocs.org/en/improve-docs/coding-guide.html)
 - [PyPy Object Space Docs](https://pypy.readthedocs.org/en/latest/objspace.html)
+- [Haskell in RPython](https://bitbucket.org/cfbolz/haskell-python)
 
 ## SoftDev @ King's Stuff:
 
