@@ -26,6 +26,7 @@ The following address will be phased out shortly:
 - Publications: [Google Scholar](http://scholar.google.co.uk/citations?hl=en&user=pNZcfiwAAAAJ) &nbsp; [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Barrett:Edd.html)
 - [Undergraduate Project Ideas](undergrad-projects-2013.html)
 - [GitHub](https://github.com/vext01/)
+- [BitBucket](https://bitbucket.org/vext01)
 - [OpenBSD stuff](openbsd.html)
 
 ### Link Pages
