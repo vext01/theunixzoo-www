@@ -1,5 +1,11 @@
 ## Edd and Ed's Retro Links
 
+### Hardware
+
+#### Amiga
+
+- [Homemade 1MB Chip RAM Expansion for Amiga A600](http://elgensrepairs.blogspot.co.uk/2012/10/homemade-1mb-chip-ram-expansion-for.html)
+
 ### Trading
 
 Other than ebay ofcourse:
