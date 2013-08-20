@@ -8,7 +8,7 @@ King's College London. For more information, see the [SoftDev team
 website](http://soft-dev.org/), specifically, the [COOLER project
 page](http://soft-dev.org/projects/cooler/).
 
-You can find my (old) accademic page
+You can find my (old) academic page
 [here](http://www.cs.kent.ac.uk/people/rpg/eb771/).
 
 ## Contact
@@ -33,7 +33,7 @@ The following address will be phased out shortly:
 
 - [Ed and Edd's retro links](retro.html)
 - [Reverse engineering links](reveng.html)
-- [Metatracing, Parsing, Language Composition (and related) Links](metatrace.html)
+- [Meta-tracing, Parsing, Language Composition (and related) Links](metatrace.html)
 
 [![A Badger](res/badger.png)](http://openclipart.org/detail/23702/badger-by-papapishu-23702)
 
