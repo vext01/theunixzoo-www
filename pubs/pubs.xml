@@ -32,6 +32,7 @@
         <details>Numeric Symbolic Abstract Domains (NSAD)</details>
         <googlescholar id="16706431186537681206" />
         <subject ref="saai" />
+	<file uri="res/papers/barrett-2012-range_analysis_minimal_effort.pdf">PDF</file>
     </publication>
 
     <publication year="2012" month="01" type="workshop" selected="true">
@@ -41,5 +42,6 @@
         <details>Formal Methods in Critical Systems (FMICS)</details>
         <googlescholar id="11494620844442497955" />
         <subject ref="saai" />
+	<file uri="res/papers/barrett-2010-range_analysis_binaries_sat.pdf">PDF</file>
     </publication>
 </publications>
