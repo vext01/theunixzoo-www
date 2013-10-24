@@ -21,6 +21,10 @@ The following address will be phased out shortly:
 
 - e.barrett (at) kent dot ac dot uk
 
+## Selected Publications
+
+%%include:pubs/selected.mdfrag%%
+
 ## My Stuff
 
 - Publications: [Google Scholar](http://scholar.google.co.uk/citations?hl=en&user=pNZcfiwAAAAJ) &nbsp; [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Barrett:Edd.html)
