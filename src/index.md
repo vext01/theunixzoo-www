@@ -8,9 +8,6 @@ Informatics, King's College London. For more information, see the [SoftDev
 team website](http://soft-dev.org/), specifically, the [COOLER project
 page](http://soft-dev.org/projects/cooler/).
 
-You can find my (old) academic page
-[here](http://www.cs.kent.ac.uk/people/rpg/eb771/).
-
 ## Selected Publications
 
 %%include:pubs/selected.mdfrag%%
