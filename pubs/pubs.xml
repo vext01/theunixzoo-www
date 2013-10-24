@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf8"?>
+
+<!DOCTYPE publications SYSTEM "publications.dtd">
+
+<publications>
+    <type id="bookchapter" priority="1">Book chapters</type>
+    <type id="journal" priority="2">Journal papers</type>
+    <type id="proceedings" priority="3">Edited proceedings</type>
+    <type id="conference" priority="4">Conference papers</type>
+    <type id="standard" priority="5">Standards</type>
+    <type id="workshop" priority="6">Workshop papers</type>
+    <type id="other" priority="7">Miscellaneous</type>
+    <type id="tech-report" priority="8">Technical reports</type>
+    <type id="draft" priority="9">Drafts</type>
+    <type id="inreview" priority="10">In review</type>
+
+    <subject id="languages" priority="1">Programming language design and implementation</subject>
+    <subject id="parsing" priority="3">Parsing</subject>
+    <subject id="saai" priority="3">Static analysis and abstract interpretation</subject>
+
+    <person id="carl_friedrich" homepage="http://cfbolz.de/" name="Carl Friedrich Bolz" />
+    <person id="edd" homepage="http://eddbarrett.co.uk/" name="Edd Barrett" />
+    <person id="krish" homepage="http://navkrish.net/" name="Naveneetha Vasudevan" />
+    <person id="laurie" homepage="http://tratt.net/laurie/" name="Laurence Tratt" />
+    <person id="lukas" homepage="http://lukasdiekmann.com/" name="Lukas Diekmann" />
+    <person id="aking" homepage="http://www.cs.kent.ac.uk/people/staff/amk/" name="Andy King" />
+
+    <publication year="2010" month="10" type="workshop" selected="true">
+        <title>Range and set abstraction using SAT</title>
+        <person ref="edd" />
+        <person ref="aking" />
+        <details>Numeric Symbolic Abstract Domains (NSAD)</details>
+        <googlescholar id="16706431186537681206" />
+        <subject ref="saai" />
+    </publication>
+
+    <publication year="2012" month="01" type="workshop" selected="true">
+        <title>Range Analysis of Binaries with Minimal Effort</title>
+        <person ref="edd" />
+        <person ref="aking" />
+        <details>Formal Methods in Critical Systems (FMICS)</details>
+        <googlescholar id="11494620844442497955" />
+        <subject ref="saai" />
+    </publication>
+</publications>
