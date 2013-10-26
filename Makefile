@@ -8,7 +8,7 @@ all: pubs out
 pubs:  ${PUBS_XMLS}
 	# uses pubs_to_html from soft-dev repo for now.
 	cd pubs && \
-		/home/edd/research/softdev/bin/pubs_to_html -p edd -t md -l \
+		/home/edd/research/softdev/bin/pubs_to_html -o -p edd -t md -l \
 		http://theunixzoo.co.uk/vwww/res/papers ${PUBS_XMLS}
 out: clean
 	vwww src out
