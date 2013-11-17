@@ -32,3 +32,4 @@
 
 - [Metaclasses](http://stackoverflow.com/questions/3467526/attaching-a-decorator-to-all-functions-within-a-class)
 - [Python3 Metaprogramming](http://www.youtube.com/watch?v=sPiWg5jSoZI)
+- [Intro to the Python Interpreter (internals)](http://akaptur.github.io/blog/2013/11/15/introduction-to-the-python-interpreter/)
