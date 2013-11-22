@@ -12,6 +12,7 @@ Other than ebay ofcourse:
 
 - [Mutant Caterpillar](http://www.mutant-caterpillar.co.uk/) - Specialises in ZX spectrum. Stocks RAM and ROM chips.
 - [Amibay](http://www.amibay.com/) - Trading post for just about any popular system.
+- [Kipper2K](http://kipper2k.com/amigaforsale/) - This guy sells neat fastram addons for much cheaper than rare SRAM cards.
 
 ### Programming
 
