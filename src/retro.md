@@ -34,6 +34,11 @@ Other than ebay ofcourse:
 
 - [SGDK](https://code.google.com/p/sgdk/)
 
+#### Amiga
+
+- [C Tutorial](http://www.pcguru.plus.com/tutorial/amiga_c.html)
+- [Amiga OS and Hardware Manuals for Developers](http://amigadev.elowar.com/)
+
 ### Documentation
 
 #### General
