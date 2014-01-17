@@ -15,15 +15,14 @@ page](http://soft-dev.org/projects/cooler/).
 ## My Stuff
 
 - Publications: [Google Scholar](http://scholar.google.co.uk/citations?hl=en&user=pNZcfiwAAAAJ) &nbsp; [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/b/Barrett:Edd.html)
-- [Undergraduate Project Ideas](undergrad-projects-2013.html)
-- [GitHub](https://github.com/vext01/)
-- [BitBucket](https://bitbucket.org/vext01)
+<!-- - [Undergraduate Project Ideas](undergrad-projects-2013.html) -->
+- Code: [GitHub](https://github.com/vext01/) &nbsp; [BitBucket](https://bitbucket.org/vext01)
 - [OpenBSD stuff](openbsd.html)
 
 ### Link Pages
 
 - [Ed and Edd's retro links](retro.html)
-- [Reverse engineering links](reveng.html)
+<!-- - [Reverse engineering links](reveng.html) -->
 - [Meta-tracing, Parsing, Language Composition (and related) Links](metatrace.html)
 
 ## Contact
