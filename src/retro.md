@@ -52,6 +52,7 @@ Other than ebay ofcourse:
 
 - [Charles MacDonald's Site](http://www.youtube.com/watch?v=PJvYprLDcRs) - Excellent source for Sega internals.
 - [Retro Junkie FTP](http://retrojunkie.net/ftp/)
+- [Sega Service Manuals](http://www.assemblergames.com/forums/showthread.php?44343-Sega-Service-Manuals)
 
 ### Forums
 
