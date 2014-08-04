@@ -106,3 +106,4 @@ Other than ebay ofcourse:
 
 - [SD2IEC Floppy Emulator](http://www.sd2iec.co.uk/) - For C64
 - [Cassadapt Tape Emulator](http://c8d.cbm8bit.com/cassadapt.php) - For C64
+- [MP32C64](http://www.retrocollect.com/News/mp32c64-add-on-brings-mp3-game-loading-functionality-to-the-commodore-64.html) - C64 MP3 loader thingy.
